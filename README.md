@@ -1,5 +1,5 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Hayford Atim
+*Business Intelligence Developer | Aspring Data Scientist*
 
 # Education
 * Masters of Science (Data Science), *YouTube University*, 2016-2018
@@ -10,7 +10,13 @@
 
 
 
-Photo by <a href="https://unsplash.com/photos/ztYmIQecyH4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink"> André François McKenzie </a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"> Unsplash </a>
+Photo by 
+ <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+   André François McKenzie
+ </a> on 
+ <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+   Unsplash
+ </a>
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
@@ -18,7 +24,7 @@ This project integrates various news source for performing sentiment analysis pe
 * **Output:** Sentiment of Cryptocurrency
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
+![alt text](Bitcoin image.jpg)
 
 Photo by 
  <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
