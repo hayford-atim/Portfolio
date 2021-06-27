@@ -9,14 +9,8 @@
 ![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
 
-
-Photo by 
- <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-   André François McKenzie
- </a> on 
- <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-   Unsplash
- </a>
+Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/bitcoin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
